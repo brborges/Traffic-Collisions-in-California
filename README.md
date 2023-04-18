@@ -15,3 +15,28 @@ The main objectives of this analysis are:
 The [Statewide Integrated Traffic Records System (SWITRS)](https://iswitrs.chp.ca.gov/Reports/jsp/index.jsp) is a database maintained by the State of California that contains information on traffic collisions.
 
 The data is used extensively for various purposes, such as identifying when automobiles, motorcycles, and bicycles crash, quantifying the risks associated with daylight saving time, and providing other statistics on collisions in the state.
+
+## Analysis
+
+
+### 1) To determine the percentage of collisions resulting in injuries versus those that do not result in injuries over time
+
+<img src="https://github.com/brborges/Traffic-collisions-in-california/blob/main/1.png" alt="grupos-partidos-candidatos-pretos" width="750">
+
+### 2) To determine the percentage of the main collision factors over time
+
+<img src="https://github.com/brborges/Traffic-collisions-in-california/blob/main/2.png" alt="grupos-partidos-candidatos-pretos" width="750">
+
+### 3) To calculate the average number of collisions per day of the week (Monday to Sunday)
+
+<img src="https://github.com/brborges/Traffic-collisions-in-california/blob/main/3.png" alt="grupos-partidos-candidatos-pretos" width="750">
+
+### 4) To create a map showing the average number of crashes by injuries severity.
+
+<img src="https://github.com/brborges/Traffic-collisions-in-california/blob/main/4.png" alt="grupos-partidos-candidatos-pretos" width="750">
+
+### 5) To build a classification model to predict whether a collision will result in injuries.
+
+<img src="https://github.com/brborges/Traffic-collisions-in-california/blob/main/5.2.png" alt="grupos-partidos-candidatos-pretos" width="750">
+
+
